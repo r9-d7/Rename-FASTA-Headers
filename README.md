@@ -10,9 +10,8 @@ before running,
    have.
 
 *NOTES:*
-**the '.ps1' file performs the function in Windows Powershell, and the '.sh' file performs the function in a Bash shell*
-**before you can run a powershell script, you must open a Powershell command prompt as administrator and set the execution
-   policy to 'Unrestricted*
+* *the '.ps1' file performs the function in Windows Powershell, and the '.sh' file performs the function in a Bash shell*
+* *before you can run a powershell script, you must open a Powershell command prompt as administrator and set the execution policy to 'Unrestricted*
 
 To run on Windows,
 1. Open a powershell terminal
