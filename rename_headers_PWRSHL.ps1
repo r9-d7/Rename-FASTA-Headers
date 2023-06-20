@@ -1,5 +1,5 @@
-$filePath = "C:\Users\rossf\Downloads\ncbi_dataset\ncbi_dataset\data\GCA_019137275.1\Ndata.fna"
-$filePath2 = "C:\Users\rossf\Downloads\ncbi_dataset\ncbi_dataset\data\GCA_019137275.1\NdataNEW.fna"
+$filePath = "C:\{Enter folder path here}\{filename}.fna"
+$filePath2 = "C:\{Enter folder path here}\{new filename}.fna"
 
 # Read the content of the file
 $fileContent = Get-Content -Path $filePath
